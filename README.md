@@ -2,15 +2,15 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [News Scraper](https://oxylabs.io/products/scraper-api/web/news-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an News website effortlessly. This brief guide explains how an News Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [News Scraper](https://oxylabs.io/products/scraper-api/web/news-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any news website effortlessly. This brief guide explains how a News Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get News results by providing your own URLs to our service. We can return the HTML for any News page you like.
+You can get news results by providing your own URLs to our service. We can return the HTML for any news page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of News page.
+The example below illustrates how you can get HTML of a [nbcnews.com](https://www.nbcnews.com/world) page.
 
 ```python
 import requests
